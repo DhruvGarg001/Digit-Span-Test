@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+
+:root {
+  --dark-green-color: #18453B;
+  --hover-dark-green-color: #1e5549;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('/fonts/Roboto-VariableFont_wdth,wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
